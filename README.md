@@ -1,3 +1,3 @@
-# nanyangbattleship
+# Nanyang Battleship Destroyer+
 
-<img src="/images/nanyang_battleshiplogo.png" alt="Battleship+">
+<img src="/images/nanyangbattleship_logo.png" alt="Battleship+">
